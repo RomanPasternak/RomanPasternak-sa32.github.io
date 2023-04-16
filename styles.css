@@ -951,3 +951,7 @@ dialog {
     width: 250px;
   }
 }
+
+footer iframe {
+  max-width: 100%;
+}

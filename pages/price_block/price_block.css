@@ -617,3 +617,7 @@ footer {
     margin-bottom: 10px;
   }
 }
+
+footer iframe {
+  max-width: 100%;
+}
